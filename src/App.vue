@@ -47,22 +47,22 @@ export default {
         { title: "Awards", link: "#awards" }
       ],
       user: {
-        name: "SATISH",
-        surname: "JHANWER",
-        address: "Pune, Maharashtra 411057 · +91 (704) 339-4934 ·",
-        email: "satish.jhanwer@gmail.com",
+        name: "ANCHAL",
+        surname: "SAHU",
+        address: "Pune, Maharashtra 411057 · +91 96 91 95 38 51 ·",
+        email: "anchalsahu@live.in",
         introduction:
-          "Sr. UI Developer, Currently working on technology which includes Node.JS, React.JS, Golang, ExpressJS, MongoDB, Docker, Kubernetes, Microservices, REST API etc."
+          "Senior UI Developer | BA4, Currently working on technology which includes Node.JS, React.JS, Golang, ExpressJS, MongoDB, Docker, Kubernetes, Microservices, REST API etc."
       },
       social: [
         {
           name: "linkedin",
-          url: "https://www.linkedin.com/in/satishjhanwer/",
+          url: "https://www.linkedin.com/in/anchalsahu/",
           icon: "fa-linkedin"
         },
         {
           name: "github",
-          url: "https://github.com/satishjhanwer",
+          url: "https://github.com/anchalsahu",
           icon: "fa-github"
         }
       ],
@@ -76,62 +76,44 @@ export default {
           endDate: "Till Now"
         },
         {
-          position: "Associate Technical Architect",
-          company: "Sigma Infosolutions Ltd.",
-          description:
-            "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Providing End to End solutions for the complex problem.",
-          startDate: "Sep 2018",
-          endDate: "Dec 2018"
-        },
-        {
           position: "Senior Software Engineer",
-          company: "Sigma Infosolutions Ltd.",
-          description:
-            "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
-          startDate: "Apr 2013",
-          endDate: "Aug 2018"
+          company: "Ideavate Solutions Pvt. Ltd.",
+          description:"",
+          startDate: "March 2016",
+          endDate: "Nov 2018"
         },
         {
           position: "Software Engineer",
-          company: "Sigma Infosolutions Ltd.",
-          description:
-            "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
-          startDate: "Apr 2012",
-          endDate: "Mar 2013"
-        },
-        {
-          position: "Associate Software Engineer",
-          company: "Sigma Infosolutions Ltd.",
-          description:
-            "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
-          startDate: "Oct 2010",
-          endDate: "Mar 2012"
+          company: "Ideavate Solutions Pvt. Ltd.",
+          description:"",
+          startDate: "March 2012",
+          endDate: "Feb 2016"
         }
       ],
       education: [
         {
-          name: "Rajasthan Technical University",
-          degree: "Bachelor of Technology",
+          name: "Rajiv Gandhi Technological University",
+          degree: "Bachelor of Engineering",
           stream: "Information Technology",
-          marks: "75%",
+          marks: "",
+          startDate: "Jul 2007",
+          endDate: "Jul 2011"
+        },
+        {
+          name: "Board of Secondary Education, Madhya Pradesh",
+          degree: "Higher Secondary Certificate Examination",
+          stream: "Maths, Physics, Chemistry, Biology",
+          marks: "",
           startDate: "Jul 2006",
-          endDate: "Jul 2010"
+          endDate: "May 2007"
         },
         {
-          name: "Board of Secondary Education, Rajasthan",
-          degree: "Senior Secondary (12th)",
-          stream: "Science Maths",
-          marks: "78%",
-          startDate: "Jul 2005",
-          endDate: "May 2006"
-        },
-        {
-          name: "Board of Secondary Education, Rajasthan",
-          degree: "Secondary (10th)",
+          name: "Board of Secondary Education, Madhya Pradesh",
+          degree: "High School Certificate Examination",
           stream: "",
-          marks: "72%",
-          startDate: "Jul 2003",
-          endDate: "May 2004"
+          marks: "",
+          startDate: "Jul 2004",
+          endDate: "May 2005"
         }
       ],
       skills: [
@@ -160,21 +142,7 @@ export default {
           icon: "devicons-css3",
           level: "Proficient"
         },
-        {
-          name: "docker",
-          icon: "devicons-docker",
-          level: "Proficient"
-        },
-        {
-          name: "mongodb",
-          icon: "devicons-mongodb",
-          level: "Upper Beginner"
-        },
-        {
-          name: "code",
-          icon: "devicons-code",
-          level: "Proficient"
-        },
+        
         {
           name: "ubuntu",
           icon: "devicons-ubuntu",
