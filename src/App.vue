@@ -148,26 +148,7 @@ export default {
           icon: "devicons-ubuntu",
           level: "Upper Beginner"
         },
-        {
-          name: "bower",
-          icon: "devicons-bower",
-          level: "Upper Beginner"
-        },
-        {
-          name: "yeoman",
-          icon: "devicons-yeoman",
-          level: "Upper Beginner"
-        },
-        {
-          name: "grails",
-          icon: "devicons-grails",
-          level: "Upper Beginner"
-        },
-        {
-          name: "groovy",
-          icon: "devicons-groovy",
-          level: "Upper Beginner"
-        },
+        
         {
           name: "git",
           icon: "devicons-git",
@@ -183,11 +164,7 @@ export default {
           icon: "devicons-jira",
           level: "Upper Beginner"
         },
-        {
-          name: "go",
-          icon: "devicons-go",
-          level: "Beginner"
-        },
+        
         {
           name: "jquery",
           icon: "devicons-jquery",
@@ -232,26 +209,14 @@ export default {
         }
       ],
       interest:
-        "Apart from being a web developer, I enjoy spending time with my family and friends. I enjoy playing games on PS4, I love watching sci-fi, fantasy, comedy movies and web series, and I spend a large amount of my free time exploring the latest technolgy advancements in the front-end web development world.",
+        "Apart from being a web developer, I enjoy spending time with my family and friends. I love watching sci-fi, fantasy, comedy movies and web series, and I spend a large amount of my free time exploring the latest technolgy advancements in the front-end web development world.",
       accomplishment: [
         {
           id: 1,
           text: "Quarterly Appreciation Award",
           date: "Aug 2015",
           company: "Sigma Infosolutions Ltd"
-        },
-        {
-          id: 2,
-          text: "Spot Award",
-          date: "Oct 2014",
-          company: "Sigma Infosolutions Ltd"
-        },
-        {
-          id: 3,
-          text: "Debut Employee",
-          date: "Nov 2010",
-          company: "Sigma Infosolutions Ltd"
-        }
+        }  
       ]
     };
   },
